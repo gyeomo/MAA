@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Run outputs / checkpoints
+runs_real/
+*.pt
+*.pth
+
+# Datasets (large / external)
+Real-IAD/
+Real-IAD_plastic/
+*.npy
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
