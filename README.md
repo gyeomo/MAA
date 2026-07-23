@@ -193,3 +193,17 @@ AUPR; model selection uses target validation `macro_auroc`.
 | `models.py` | ResNet-34 backbone and MVCNN multi-view classifier |
 | `datasets.py` | Transforms and the corruption wrapper (ImageNet-C + pose) |
 | `run_iad.sh` | Example multi-corruption / multi-seed launcher |
+
+## Citations
+
+```bibtex
+@article{kim2026maa,
+  title   = {Defect-Aware Multi-View Adaptive Alignment for Defect Inspection in Target-Scarce Domain Adaptation},
+  author  = {Kim, Seonggyeom and Park, Byeongtae and Chae, Dong-Kyu and Joung, Junegak},
+  journal = {Advanced Engineering Informatics},
+  volume  = {76},
+  pages   = {105071},
+  year    = {2026},
+  doi     = {10.1016/j.aei.2026.105071},
+  url     = {https://www.sciencedirect.com/science/article/pii/S1474034626007639}
+}
