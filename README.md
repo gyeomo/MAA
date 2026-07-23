@@ -194,7 +194,7 @@ AUPR; model selection uses target validation `macro_auroc`.
 | `datasets.py` | Transforms and the corruption wrapper (ImageNet-C + pose) |
 | `run_iad.sh` | Example multi-corruption / multi-seed launcher |
 
-## Citations
+## Citation
 
 ```bibtex
 @article{kim2026maa,
